@@ -1,4 +1,4 @@
-### Software Engineer Nikita Yudin from Russia
+## Software Engineer Nikita Yudin from Russia
 
 By 2024, I had completed over 10 projects, many of which are publicly available on my GitHub profile. My area of expertise is web application development, and I have experience working with various technologies, including JavaScript, TypeScript, React, NextJS, GraphQL, NodeJS, and others.
 
